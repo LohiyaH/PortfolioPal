@@ -3,6 +3,15 @@
 ## Description
 A full-stack application for tracking and managing investment portfolios. The application allows users to view, add, and manage their portfolio items using a user-friendly interface.
 
+## Cloning the Repository
+To clone this repository, ensure you have Git installed on your machine. Then run the following command:
+
+```bash
+git clone https://github.com/LohiyaH/PortfolioPal.git
+```
+
+Replace `yourusername` with your GitHub username.
+
 ## Installation
 ### Backend
 1. Navigate to the `backend` directory.
