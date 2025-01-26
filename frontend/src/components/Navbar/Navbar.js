@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="bg-white shadow sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-blue-600">
-        Portfolio Tracker
+        Portfolio Pal
         </Link>
         <div className="flex gap-4">
           <Link
